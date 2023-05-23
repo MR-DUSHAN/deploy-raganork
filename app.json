@@ -56,7 +56,7 @@
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+            "value":"Raganork;Souravkl11;https://i.ibb.co/1fzX8Y1/20230523-165422.jpg"
         },
         "MODE": {
             "description": "Private or public",
